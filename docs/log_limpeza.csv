@@ -1,0 +1,8 @@
+problema,decisao,justificativa,linhas_antes,linhas_depois,linhas_afetadas
+Duplicados exatos,Remover duplicatas exatas,As linhas eram idênticas em todas as colunas.,11109371,11108189,1182
+Código -999 em numero_dias_sem_chuva,Converter -999 em ausente,O INPE documenta -999 como valor inválido; as linhas foram mantidas.,11108189,11108189,75915
+Código -999 em risco_fogo,Converter -999 em ausente,O INPE documenta -999 como valor inválido; as linhas foram mantidas.,11108189,11108189,144672
+Ausências em frp,Manter ausentes sem imputação,A ausência varia por satélite e pode ser estrutural.,11108189,11108189,5952753
+Ausências em bioma,Manter ausentes sem inferir categoria,Não há informação suficiente para preencher o bioma.,11108189,11108189,74
+Candidatos a outlier pelo IQR,Manter os valores,"O critério IQR sinaliza extremos, mas não comprova erro.",11108189,11108189,0
+Tipos inconsistentes entre partes,Padronizar tipos e converter data_pas para data_hora,A coluna numero_dias_sem_chuva não apresentou valores fracionários.,11108189,11108189,11108189
