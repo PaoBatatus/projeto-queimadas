@@ -1,0 +1,6 @@
+data/bronze/*
+data/silver/*
+data/gold/*
+!data/bronze/.gitkeep
+!data/silver/.gitkeep
+!data/gold/.gitkeep
