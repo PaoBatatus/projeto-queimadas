@@ -1,4 +1,4 @@
 ano,url,data_download,arquivo,linhas,colunas,tamanho_bytes
-2018,https://dataserver-coids.inpe.br/queimadas/queimadas/focos/csv/anual/Brasil_todos_sats/focos_br_todos-sats_2018.zip,2026-11-14T20:56:05,focos_2018.zip,1826081,13,28815877
-2019,https://dataserver-coids.inpe.br/queimadas/queimadas/focos/csv/anual/Brasil_todos_sats/focos_br_todos-sats_2019.zip,2026-11-14T20:56:16,focos_2019.zip,4070300,13,65814921
-2020,https://dataserver-coids.inpe.br/queimadas/queimadas/focos/csv/anual/Brasil_todos_sats/focos_br_todos-sats_2020.zip,2026-11-14T20:56:31,focos_2020.zip,5212990,13,80803782
+2018,https://dataserver-coids.inpe.br/queimadas/queimadas/focos/csv/anual/Brasil_todos_sats/focos_br_todos-sats_2018.zip,2026-11-14T20:52:30+00:00,focos_2018.zip,1826081,13,28815877
+2019,https://dataserver-coids.inpe.br/queimadas/queimadas/focos/csv/anual/Brasil_todos_sats/focos_br_todos-sats_2019.zip,2026-11-14T20:56:09+00:00,focos_2019.zip,4070300,13,65814921
+2020,https://dataserver-coids.inpe.br/queimadas/queimadas/focos/csv/anual/Brasil_todos_sats/focos_br_todos-sats_2020.zip,2026-11-14T20:56:21+00:00,focos_2020.zip,5212990,13,80803782
